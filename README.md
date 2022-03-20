@@ -1,6 +1,6 @@
 # AttackCruncher
 
-The Attach Cruncher tool crunches the raw attacker source details into a more understandable rolled-up summary.
+The Attach Cruncher command line tool crunches the raw attacker source details into a more understandable rolled-up summary.
 
 ## Input
 
